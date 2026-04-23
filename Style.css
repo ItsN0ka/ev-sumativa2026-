@@ -165,3 +165,12 @@ button input select textarea {
     margin-bottom: 0.3rem;
     font-size: 0.9rem;
 }
+
+.tag {
+    background-color: #D4EEF1;
+    color: #17454F;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
